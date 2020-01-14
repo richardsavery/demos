@@ -16,7 +16,7 @@ My work with Shimi focused on generating a new non-speech voice focused on devel
 This worked then developed into an accepted $669,000, [NSF-NRI Grant proposal](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1925178&HistoricalAwards=false) I wrote as the primary author with my advisor Gil Weinberg in 2019.
 
 ### Publications:
-##### [Finding Shimi's Voice: Fostering Human-Robot Communication With Music And a NVIDIA Jetson TX2](http://lac.linuxaudio.org/2019/doc/savery.pdf)
+[Finding Shimi's Voice: Fostering Human-Robot Communication With Music And a NVIDIA Jetson TX2](http://lac.linuxaudio.org/2019/doc/savery.pdf)
 Linux Audio Conference 2019
 R Savery, R Rose, G Weinberg
 
