@@ -3,11 +3,11 @@ Developer of artificial intelligence and robotics, using music and creativity as
 This page includes my recent projects, completed from 2017 onwards. For archived projects visit www.richardsavery.com
 
 # Shimi and Prosody
-<div align="center">
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mDAmApNw5wo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/mDAmApNw5wo/0.jpg)](http://www.youtube.com/watch?v=mDAmApNw5wo)
-</div>
+
 
 My work with Shimi focused on generating a new non-speech voice focused on developing better human-robot interaction. This was done using prosodic audio generated through deep learning on an embedded Nvidia Jetson TX2. I was able to show that using this new voice created a more trustworthy version of Shimi than using a human voice.
 </div>
