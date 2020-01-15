@@ -19,9 +19,9 @@ Linux Audio Conference 2019
 R Savery, R Rose, G Weinberg
 
 
-<a href="https://richardsavery.github.io/Ro_man%20(15).pdf" target="_blank">Establishing  Human-Robot  Trust  through  Music-Driven  Robotic Emotion  Prosody  and  Gesture</a>
-28th IEEE International Conference on Robot & Human Interactive Communication
-Richard Savery, Ryan Rose and Gil Weinberg
+<a href="https://richardsavery.github.io/Ro_man%20(15).pdf" target="_blank">Establishing  Human-Robot  Trust  through  Music-Driven  Robotic Emotion  Prosody  and  Gesture</a><p>
+28th IEEE International Conference on Robot & Human Interactive Communication</p><p>
+Richard Savery, Ryan Rose and Gil Weinberg</p>
 
 This project was also featured in IEEE spectrum magazine
 <a href="https://spectrum.ieee.org/automaton/robotics/artificial-intelligence/shimi-will-now-sing-to-you-in-an-adorable-robot-voice" target="_blank">Shimi Will Now Sing to You in an Adorable Robot Voice</a>
