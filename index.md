@@ -1,4 +1,5 @@
-I am a developer of artificial intelligence and robotics, using music and creativity as a medium to program better interactions, understandings and models. Currently in my 3rd year of a PhD in Music Technology (minor in Human Computer Interaction), at the Georgia Institute of Technology, working in the Robotic Musicianship Lab with Gil Weinberg. View my resume
+I am a developer of artificial intelligence and robotics, using music and creativity as a medium to program better interactions, understandings and models. I'm currently in my 3rd year of a PhD in Music Technology (minor in Human Computer Interaction), at the Georgia Institute of Technology, working in the Robotic Musicianship Lab with Gil Weinberg. 
+<a href="/CV (4).pdf" target="_blank">You can see my resume here.</a>
 
 This page includes my recent projects, completed from 2017 onwards. For archived projects visit www.richardsavery.com
 
@@ -11,9 +12,9 @@ This page includes my recent projects, completed from 2017 onwards. For archived
 My work with Shimi focuses on generating a new non-speech voice while avoiding uncanny valley and developing better human-robot interaction. This was done using prosodic audio generated through deep learning on an embedded Nvidia Jetson TX2. I was able to show that using this new voice created a more trustworthy version of Shimi than using a human voice. 
 
 
-This worked then developed into an accepted $669,000, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1925178&HistoricalAwards=false" target="_blank">NSF-NRI Grant proposal</a> I wrote as the primary author with my advisor Gil Weinberg in 2019.
+In 2019 I was the primary author with my advisor Gil Weinberg for an awarded $669,000, <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1925178&HistoricalAwards=false" target="_blank">NSF-NRI Grant proposal</a> "Creating Trust Between Groups of Humans and Robots Using a Novel Music Driven Robotic Emotion Generator" to continue this work.
 
-### Publications:
+#### Publications:
 <a href="http://lac.linuxaudio.org/2019/doc/savery.pdf" target="_blank">Finding Shimi's Voice: Fostering Human-Robot Communication With Music And a NVIDIA Jetson TX2</a><br/>
 Linux Audio Conference 2019<br/>
 R Savery, R Rose, G Weinberg
@@ -28,7 +29,7 @@ This project was also featured in IEEE spectrum magazine
 
 
 # Shimon
-Shimon is a robotic marimba player I have been working with since 2017. I have focused on real-time deep learning improvisation and computer generated compositions. A recent highlight included an hour long performance in Aarhus, Denmark combining CNN's for improvisation, visuals and a jazz orchestra. This concert was awarded the Jazz Denmark Prize for "the most innovative and creative concert experience of the year".
+Shimon is a robotic marimba player I have been working with since 2017. I have focus on real-time deep learning improvisation and computer generated compositions. A recent highlight included an hour long performance in Aarhus, Denmark combining CNN's for improvisation, visuals and a jazz orchestra. This concert was awarded the Jazz Denmark Prize for "the most innovative and creative concert experience of the year".
 
 
 #### Deep Learning Based Composition
@@ -44,11 +45,9 @@ I am currently working on Shimon 2.0, featuring Shimon singing computer generate
 
 ![Shimon Robot Watching Film](/promo.shimon.watching.jpg)
 
-<a href="https://www.dropbox.com/s/czavyw1hkigejcc/Interfacedemolong.mp4?dl=0" target="_blank">System Demo</a>
+This project combines existing computer vision techniques to develop an understanding of a films narrative arc, based on main characters and their emotions. This arc is combined with visually analyzed director aesthetic choices including pacing and levels of movement. These parameters are then used to generate a full score for short films. 
 
-https://gtcmt.gatech.edu/news/shimon-savery-film-score
-
-Composing for a film requires developing an understanding of the film, its characters and the film aesthetic choices made by the director. We propose using existing visual analysis systems as a core technology for film music generation. We extract film features including main characters and their emotions to develop a computer understanding of the film's narrative arc. This arc is combined with visually analyzed director aesthetic choices including pacing and levels of movement. Two systems are presented, the first using a robotic film composer and marimbist to generate film scores in real-time performance. The second software-based system builds on the results from the robot film composer to create narrative driven film scores.
+<a href="https://www.dropbox.com/s/czavyw1hkigejcc/Interfacedemolong.mp4?dl=0" target="_blank">System Demo Here</a>
 
 ### Publications:
 <a href="https://www.researchgate.net/profile/Richard_Savery/publication/334971929_Shimon_the_Robot_Film_Composer_and_DeepScore/links/5d484cf992851cd046a41e7a/Shimon-the-Robot-Film-Composer-and-DeepScore.pdf" target="_blank">Shimon the Robot Film Composer and DeepScore</a><br/>
@@ -67,7 +66,7 @@ R Savery, M Ayyagari, K May, B Walker<br/>
 25th International Conference on Auditory Display
 
 ### Harriet Padberg
-Harriet Padberg wrote Computer-Composed Canon and Free Fugue as part of her 1964 dissertation in Mathematics and Music at Saint Louis University. This program is one of the earliest examples of text-to-music software and algorithmic composition, which are areas of great interest in the present-day field of music technology, yet has largely been ignored. We recreated the work and ..
+Harriet Padberg wrote Computer-Composed Canon and Free Fugue as part of her 1964 dissertation in Mathematics and Music at Saint Louis University. This program is one of the earliest examples of text-to-music software and algorithmic composition, which are areas of great interest in the present-day field of music technology, yet has largely been ignored. We recreated the work and shared it with multiple composers. 
 
 <a href="https://arxiv.org/abs/1907.04470" target="_blank">Learning from History: Recreating and Repurposing Sister Harriet Padberg’s Computer Composed Canon and Free Fugue</a><br/>
 R Savery, B Genchel, J Smith, A Caulkins, M Jones, A Savery<br/>
