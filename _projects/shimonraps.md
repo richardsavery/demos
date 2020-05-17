@@ -24,10 +24,10 @@ Freethink Media, April 23 2020
 https://www.freethink.com/videos/robot-music
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cdbH0Wg1T2c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<!-- 
 
 SPOTIFY ShimonSings
-PADLET
+PADLET -->
 
 ## Publications
 
