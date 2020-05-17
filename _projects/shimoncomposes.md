@@ -6,19 +6,38 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/shimonfilm.jpg'
 ---
 ###### About:
+I've worked with Shimon on multiple deep learning and generative music systems. These have been used in many concerts and performances worldwide. Recent highlights featured here include automatic film scoring with a premiere in Canary Islands, an hour long performance with the Aarhus Jazz Orchestra winning.. Grammy
+and a Netherlands based live broadcast. 
 
 
-### Grants
+### Automatic Film Scoring
+##### Shimon the Film Composer
+This project combines existing computer vision techniques to develop an understanding of a films narrative arc, based on main characters and their emotions. This arc is combined with visually analyzed director aesthetic choices including pacing and levels of movement. These parameters are then used to generate a full score for short films.
 
-### Videos/Press:
+##### DeepScore
 
-### Paper/Publications:
+[System Demo](https://www.dropbox.com/s/czavyw1hkigejcc/Interfacedemolong.mp4?dl=0)
 
-- denmark stuff
 
-- Netherlands
+###### Publications
+[Shimon the Robot Film Composer and DeepScore](https://www.researchgate.net/profile/Richard_Savery/publication/334971929_Shimon_the_Robot_Film_Composer_and_DeepScore/links/5d484cf992851cd046a41e7a/Shimon-the-Robot-Film-Composer-and-DeepScore.pd)
 
-- Canary Islands
+Computer Simulation of Musical Creativity, 2018
+
+Richard Savery, Gil Weinberg
+
+
+
+
+### Denmark performance
+
+
+
+### Netherlands performance
+
+
+
+
 
 
 ## Other links:
@@ -38,14 +57,10 @@ I am currently working on Shimon 2.0, featuring Shimon singing computer generate
 
 <!-- ![Shimon Robot Watching Film](/promo.shimon.watching.jpg) -->
 
-This project combines existing computer vision techniques to develop an understanding of a films narrative arc, based on main characters and their emotions. This arc is combined with visually analyzed director aesthetic choices including pacing and levels of movement. These parameters are then used to generate a full score for short films.
+
 
 <a href="https://www.dropbox.com/s/czavyw1hkigejcc/Interfacedemolong.mp4?dl=0" target="_blank">System Demo Here</a>
 
-### Publications:
-<a href="https://www.researchgate.net/profile/Richard_Savery/publication/334971929_Shimon_the_Robot_Film_Composer_and_DeepScore/links/5d484cf992851cd046a41e7a/Shimon-the-Robot-Film-Composer-and-DeepScore.pdf" target="_blank">Shimon the Robot Film Composer and DeepScore</a><br/>
-R Savery, G Weinberg<br/>
-2018 Computer Simulation of Musical Creativity
 
 This project was featured in Georgia Tech's Presidents Update:
 <a href="https://gtcmt.gatech.edu/news/shimon-savery-film-score" target="_blank">Together, Man and Robot Write Film Score</a>

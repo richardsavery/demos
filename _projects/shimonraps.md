@@ -9,7 +9,7 @@ featured_image: '/images/dashshimon.png'
 
 <!-- ![](/images/dashshimon.png) -->
 ###### About:
-Shimon raps emerged out of an interest in applying our automatic lyric creation system to a real-time model. This system focuses aims to capture many of unique aspects of lingusitic characteristics of hip hop and lyrical flow through rhythm and phrasing. The final system is interactive allowing a rapper to respond in dialogue with Shimon.  
+Shimon raps emerged out of an interest in applying our automatic lyric creation system to a real-time model. This system aims to capture many of unique aspects of lingusitic characteristics of hip hop and lyrical flow through rhythm and phrasing. The final system is interactive, allowing a rapper to respond in dialogue with Shimon.  
 
 
 ### Selected Press and Videos
