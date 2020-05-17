@@ -8,7 +8,10 @@ featured_image: '/images/shimi.jpg'
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mDAmApNw5wo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###### About:
-My work with Shimi focuses on generating a new non-speech voice while avoiding uncanny valley and developing better human-robot interaction. This was done using prosodic audio generated through deep learning on an embedded Nvidia Jetson TX2. I was able to show that using this new voice created a more trustworthy version of Shimi than using a human voice.
+My work with Shimi started with the broad question of what voice should they use to communicate. I focused on generating a new non-speech voice aiming to avoiding uncanny valley, and allow a robot to talk like a robot. This was done using prosodic audio generated through deep learning on an embedded Nvidia Jetson TX2. After creating the voice we were able to show increased levels of trust in users when collaborating with Shimi. These metrics then led to the development of an expanded successful NSF grant which begun in November 2019.
+
+
+
 
 ### Grants
 ###### National Science Foundation, National Robotics Initiative - $669,912.00
@@ -23,7 +26,7 @@ IEEE Spectrum - 05 Mar 2019
 [Establishing  Human-Robot  Trust  through  Music-Driven  Robotic Emotion  Prosody  and  Gesture](https://arxiv.org/pdf/2001.05863.pdf)
 
 
-28th IEEE International Conference on Robot & Human Interactive Communication
+28th IEEE International Conference on Robot & Human Interactive Communication 2019
 
 Richard Savery, Ryan Rose and Gil Weinberg
 
@@ -47,7 +50,7 @@ a significant result that our non-linguistic audio generation
 achieved an 8% higher mean of average trust than using a
 state-of-the-art text-to-speech system.
 
-[Finding Shimi's Voice: Fostering Human-Robot Communication With Music And a NVIDIA Jetson TX2](http://lac.linuxaudio.org/2019/doc/savery.pdf) //
+[Finding Shimi's Voice: Fostering Human-Robot Communication With Music And a NVIDIA Jetson TX2](http://lac.linuxaudio.org/2019/doc/savery.pdf)
 
 Linux Audio Conference 2019
 

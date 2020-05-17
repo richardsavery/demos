@@ -20,7 +20,7 @@ menu_settings:
 footer_settings:
   logo_image:
   logo_width: 200
-  footer_tagline: Developer of artificial intelligence and robotics, using music and creativity as a medium to program better interactions, understandings and models
+  footer_tagline: Developer of artificial intelligence and robotics through music and creativity.
 
 grid_settings:
   overlay_opacity: 0.8
@@ -46,6 +46,7 @@ social_settings:
   amazon_url: ''
   apple_url: ''
   android_url: ''
+  google_url: 'https://scholar.google.com/citations?user=sk_GtWAAAAAJ&hl=en'
   tumblr_url: ''
   dribbble_url: ''
   behance_url: ''
@@ -59,6 +60,9 @@ social_settings:
   spotify_url: 'https://open.spotify.com/album/49mqgxoLXFGP5NnBB5PQAU'
   bandcamp_url: 'https://richardsavery.bandcamp.com/'
   linkedin_url: 'https://www.linkedin.com/in/richardsavery/'
+  imdb_url: 'https://www.imdb.com/name/nm4360403/'
+
+# https://fontawesome.com/icons/imdb?style=brands
 
 color_settings:
   background_color: '#ffffff'

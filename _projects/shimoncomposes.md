@@ -3,18 +3,23 @@ title: 'Shimon Composes'
 subtitle: 'AI Generated Music'
 date: 2019-06-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
-featured_image: '/images/shimonfilm2.png'
+featured_image: '/images/shimonfilm.jpg'
 ---
-## About: include links to other works
-— Include links to details on Service etc
+###### About:
 
-## Grants
 
-## Videos/Press:
+### Grants
 
-## Paper/Publications:
+### Videos/Press:
+
+### Paper/Publications:
 
 - denmark stuff
+
+- Netherlands
+
+- Canary Islands
+
 
 ## Other links:
 
