@@ -9,6 +9,7 @@ I am a developer of artificial intelligence and robotics, using music and creati
 
 Before Georgia Tech I worked as freelance music technologist, composer and performer. I composed and orchestrated many video games, films and ads including Fast Four featuring Roger Federer and worked for 15 years as a professional saxophonist, clarinetist and flutist. Much of my current work is based on a $700,000 NSF-National Robotics Initiative grant I recently received to develop forms of emotional musical prosody to increase trust in group human-robot collaboration.
 
+<!-- For a publication list check my Google Scholar Profile -->
 <!-- Publications
 Music
 Other Projects -->
