@@ -20,6 +20,13 @@ Redesign face
 
 
 ### Album and Video
+Gospel In Space
+
+Earth To See
+
+Into Your Mind
+
+
 <center>
 <iframe src="https://open.spotify.com/embed/album/49mqgxoLXFGP5NnBB5PQAU" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></center>
 
@@ -29,5 +36,5 @@ Videos
 
 ### Publications:
  Shimon Sings - Robotic Musicianship Finds its Voice
- Forthcoming Book Chapter in
+ Forthcoming Book Chapter in Handbook of Artificial Intelligence for Music (editor Eduardo Miranda)
  Richard Savery, Lisa Zahray, Gil Weinberg

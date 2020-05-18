@@ -7,12 +7,19 @@ featured_image: '/images/shimonfilm.jpg'
 ---
 ###### About:
 I've worked with Shimon on multiple deep learning and generative music systems. These have been used in many concerts and performances worldwide. Recent highlights featured here include automatic film scoring with a premiere in Canary Islands, an hour long performance with the Aarhus Jazz Orchestra winning.. Grammy
-and a Netherlands based live broadcast. 
+and a Netherlands based live broadcast.
 
 
 ### Automatic Film Scoring
 ##### Shimon the Film Composer
+Shimon's development as a film composer came out of a collaboration with Janet Biggs..
+
 This project combines existing computer vision techniques to develop an understanding of a films narrative arc, based on main characters and their emotions. This arc is combined with visually analyzed director aesthetic choices including pacing and levels of movement. These parameters are then used to generate a full score for short films.
+
+
+Also led to the other film..
+
+Must be some press/links
 
 ##### DeepScore
 
