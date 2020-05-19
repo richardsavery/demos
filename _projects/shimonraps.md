@@ -16,10 +16,10 @@ Shimon raps emerged out of an interest in applying our automatic lyric creation 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zPvVpG-aCNg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[It’s Robot Versus Human as Shimon Performs Real-Time Rap Battles](https://spectrum.ieee.org/automaton/robotics/robotics-software/robot-versus-human-shimon-real-time-rap-battles) IEEE Spectrum, April 23 2020
+[It’s Robot Versus Human as Shimon Performs Real-Time Rap Battles](https://spectrum.ieee.org/automaton/robotics/robotics-software/robot-versus-human-shimon-real-time-rap-battles) IEEE Spectrum, 23rd April 2020
 
 
-[Can a Robot Really Freestyle?](https://www.freethink.com/videos/robot-music) Freethink Media, April 23 2020
+[Can a Robot Really Freestyle?](https://www.freethink.com/videos/robot-music) Freethink Media, 23rd April 2020
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cdbH0Wg1T2c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!--
