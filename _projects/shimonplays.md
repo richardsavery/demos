@@ -7,7 +7,7 @@ featured_image: '/images/BassandShimon.jpg'
 ---
 
 ###### About:
-I've worked with Shimon on many deep learning and generative, interactive music systems. These have been used in many concerts and performances worldwide. The recent highlights featured here include, an hour long performance with the Aarhus Jazz Orchestra which won the "Jazz Denmark Prize" (Danish Grammy's) and a live broadcast in the Netherlands.
+I've worked with Shimon on many deep learning and generative, interactive music systems. These have been used in numerous concerts and performances worldwide. The recent highlights featured here include an hour long performance with the Aarhus Jazz Orchestra which won the "Jazz Denmark Prize" (Danish Grammy's) and a live broadcast in the Netherlands.
 
 ### Aarhus Jazz Orchestra:
 In September 2019 Shimon performed a 60 mintute work composed by Signe Bisgaard and Morten Riis. This involved Shimon acting as a travelling musician, playing precomposed music, improvising in jazz sections, reading graphic scores and responding to visual cues.

@@ -8,7 +8,7 @@ featured_image: '/images/shimonfilm.jpg'
 <!-- ![](/images/shimonfilm2.png) -->
 
 ###### About:
-Shimon's development as a film composer came out of a collaboration with [Janet Biggs](http://www.jbiggs.com/) in 2017, out of her concept of a film scored by a robot. This project uses many common deep learning computer vision techniques to develop an understanding of a films narrative arc, based on main characters, their emotions and object detection. This arc is combined with visually derived director aesthetic choices including pacing and levels of movement. These parameters are then used to generate a full score for short films, played by Shimon.
+Shimon's development as a film composer came out of a collaboration with [Janet Biggs](http://www.jbiggs.com/) in 2017, from her concept of a film scored by a robot. This project uses many common deep learning computer vision techniques tracking main characters, their emotions and object detection. This metrics are utilized to learn a narrative arc of the film and combined with visually derived director aesthetic choices including pacing and levels of movement. These parameters are then used to generate a full score for short films, played by Shimon.
 
 <iframe src="https://player.vimeo.com/video/339873735" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/339873735">Fragility Curves single channel excerpt</a> from <a href="https://vimeo.com/jbiggs">Janet Biggs</a></p>
@@ -23,7 +23,7 @@ This project was featured in Georgia Tech's Presidents Update:
 
 
 ##### DeepScore
-After developing Shimon the Film Composer I turned the system into a software only automatic composer, which allowed human input. You can see and hear a [System Demo here](https://www.dropbox.com/s/czavyw1hkigejcc/Interfacedemolong.mp4?dl=0)
+After developing Shimon the Film Composer I turned the system into a software only automatic composer, which allowed human input and choices of melody. You can see and hear a [System Demo](https://www.dropbox.com/s/czavyw1hkigejcc/Interfacedemolong.mp4?dl=0)
 
 
 ###### Publications
