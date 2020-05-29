@@ -57,17 +57,18 @@ Richard Savery, Ryan Rose, Gil Weinberg
 
 17th Linux Audio Conference (LAC-19), CCRMA, Stanford University, USA, 2019
 
+[Harriet Padberg: Computer-Composed Canon and Free-Fugue Renascence](https://societymusictheory.org/sites/default/files/events/programs/2019-program.pdf)
+
+Richard Savery, Benjamin Genchel, Jason Smith, and Molly Jones
+
+Society for Music Theory 42nd Annual Meeting, Ohio, USA, 2019
+
 [Shimon the Robot Film Composer and DeepScore](https://www.researchgate.net/profile/Richard_Savery/publication/334971929_Shimon_the_Robot_Film_Composer_and_DeepScore/links/5d484cf992851cd046a41e7a/Shimon-the-Robot-Film-Composer-and-DeepScore.pdf)
 
 Richard Savery, Gil Weinberg
 
 Computer Simulation of Musical Creativity, Dublin, Ireland, 2018
 
-[Harriet Padberg: Computer-Composed Canon and Free-Fugue Renascence](https://societymusictheory.org/sites/default/files/events/programs/2019-program.pdf)
-
-Richard Savery, Benjamin Genchel, Jason Smith, and Molly Jones
-
-Society for Music Theory 42nd Annual Meeting, Ohio, USA, 2019
 
 
 ### Master's Thesis
@@ -79,6 +80,8 @@ Richard Savery
 
 
 ### Presentations and Articles
+
+
 [Listening in Improvisation](https://ethnomusicologyreview.ucla.edu/content/listening-improvisation)
 
 Santiago Guisasola, Richard Savery

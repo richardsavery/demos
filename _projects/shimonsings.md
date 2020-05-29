@@ -24,6 +24,10 @@ This project was featured in many articles. Some highlights:
 
 [Shimon: Singer, songwriter, robot](https://www.youtube.com/watch?v=Ufk9Fv4h4Ao) - Natonal Science Foundation, 12th March 2020
 
+[Singer-Songwriter Robot is Heading Out on Tour](https://www.futurity.org/shimon-singing-robot-2292272/) - Futurity, 27th February 2020
+
+[There really is a robot releasing music on Spotify](https://musically.com/2020/03/20/there-really-is-a-robot-releasing-music-on-spotify/) - Music All, 20th March, 2020
+
 ### Album and Music Videos
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wcft3gcspzs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

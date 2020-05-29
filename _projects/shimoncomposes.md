@@ -10,6 +10,9 @@ featured_image: '/images/shimonfilm.jpg'
 ###### About:
 Shimon's development as a film composer came out of a collaboration with [Janet Biggs](http://www.jbiggs.com/) in 2017, from her concept of a film scored by a robot. This project uses many common deep learning computer vision techniques tracking main characters, their emotions and object detection. This metrics are utilized to learn a narrative arc of the film and combined with visually derived director aesthetic choices including pacing and levels of movement. These parameters are then used to generate a full score for short films, played by Shimon.
 
+<iframe src="https://player.vimeo.com/video/328847074" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/328847074">Fragility Curves excerpt</a> from <a href="https://vimeo.com/jbiggs">Janet Biggs</a></p>
+
 <iframe src="https://player.vimeo.com/video/339873735" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 <p><a href="https://vimeo.com/339873735">Fragility Curves single channel excerpt</a> from <a href="https://vimeo.com/jbiggs">Janet Biggs</a></p>
 
