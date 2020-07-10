@@ -20,6 +20,20 @@ Richard Savery, Lisa Zahray, Gil Weinberg
 Artificial Intelligence & Creative Music Practice, Routledge, 2021
 
 ### Peer Reviewed Journals and Conferences
+
+[A  Survey  of  Robots  and  Emotion: Broad  Trends  and  Models  of  Emotional  Interaction](http://ro-man2020.unina.it/)
+
+Richard Savery, Gil Weinberg
+
+29th IEEE International Conference on Robot & Human Interactive Communication
+
+[Robot  Gesture  Sonification  to  Enhance  Awareness  of  Robot  Status  and Enjoyment  of  Interaction](http://ro-man2020.unina.it/)
+
+Lisa Zahray, Richard Savery, Liana Syrkett, Gil Weinberg
+
+29th IEEE International Conference on Robot & Human Interactive Communication, 2020
+
+
 [Shimon the Rapper: A Real-Time System for Human-Robot Interactive Rap Battles](http://computationalcreativity.net/iccc20/)
 
 Richard Savery, Lisa Zahray, Gil Weinberg
@@ -79,8 +93,12 @@ Richard Savery
 2015, University of California, Irvine
 
 
-### Presentations and Articles
+### Industry Events, Presentations and Articles
+##### Deep Learning Applications for Video Game Music
 
+Richard Savery
+
+GameSoundCon, 2018
 
 [Listening in Improvisation](https://ethnomusicologyreview.ucla.edu/content/listening-improvisation)
 

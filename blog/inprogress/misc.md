@@ -13,7 +13,6 @@ This project turned data from players and the balls movement into sound.<br/>
 R Savery, M Ayyagari, K May, B Walker<br/>
 25th International Conference on Auditory Display
 
-Jason Barnes - the photo should also be with Jason
 
 ### Harriet Padberg
 Harriet Padberg wrote Computer-Composed Canon and Free Fugue as part of her 1964 dissertation in Mathematics and Music at Saint Louis University. This program is one of the earliest examples of text-to-music software and algorithmic composition, which are areas of great interest in the present-day field of music technology, yet has largely been ignored. We recreated the work and shared it with multiple composers.
