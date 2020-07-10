@@ -71,7 +71,7 @@ Richard Savery, Ryan Rose, Gil Weinberg
 
 17th Linux Audio Conference (LAC-19), CCRMA, Stanford University, USA, 2019
 
-[Harriet Padberg: Computer-Composed Canon and Free-Fugue Renascence](www.richardsavery.com/padberg)
+[Harriet Padberg: Computer-Composed Canon and Free-Fugue Renascence](padberg)
 
 Richard Savery, Benjamin Genchel, Jason Smith, and Molly Jones
 
