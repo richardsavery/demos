@@ -71,7 +71,7 @@ Richard Savery, Ryan Rose, Gil Weinberg
 
 17th Linux Audio Conference (LAC-19), CCRMA, Stanford University, USA, 2019
 
-[Harriet Padberg: Computer-Composed Canon and Free-Fugue Renascence](https://societymusictheory.org/sites/default/files/events/programs/2019-program.pdf)
+[Harriet Padberg: Computer-Composed Canon and Free-Fugue Renascence](www.richardsavery.com/padberg)
 
 Richard Savery, Benjamin Genchel, Jason Smith, and Molly Jones
 
@@ -82,6 +82,12 @@ Society for Music Theory 42nd Annual Meeting, Ohio, USA, 2019
 Richard Savery, Gil Weinberg
 
 Computer Simulation of Musical Creativity, Dublin, Ireland, 2018
+
+[An Interactive Algorithmic Music System for EDM](https://dj.dancecult.net/index.php/dancecult/article/view/1022)
+
+Richard Savery
+
+Dancecult: Journal of Electronic Dance Music Culture 10 (1), 2018
 
 
 
