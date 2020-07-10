@@ -3,7 +3,7 @@ title: Harriet Padberg: Computer-Composed Canon and Free-Fugue Renascence
 description: Harriet Padberg: Computer-Composed Canon and Free-Fugue Renascence
 
 ---
-[Harriet Padberg: Computer-Composed Canon and Free-Fugue Renascence](papers/padberg.pdf)
+[Harriet Padberg: Computer-Composed Canon and Free-Fugue Renascence](https://github.com/richardsavery/richardsavery.github.io/blob/master/papers/padbergsmt.pdf?raw=true)
 
 Richard Savery, Benjamin Genchel, Jason Smith, and Molly Jones
 
@@ -19,4 +19,4 @@ Despite its originality and relevance to the work of more prominent algorithmic 
 
 [Code](https://github.com/bgenchel/PyPadberg)
 
-[PDF](https://richardsavery.com/padberg.pdf)
+[PDF](https://github.com/richardsavery/richardsavery.github.io/blob/master/papers/padbergsmt.pdf?raw=true)
