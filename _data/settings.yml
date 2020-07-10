@@ -13,7 +13,7 @@ menu_settings:
     - title: 'Projects'
       url: '/'
     - title: 'Publications'
-      url: '/publications/'
+      url: '/publications'
     - title: 'CV'
       url: 'https://richardsavery.com/cv.pdf'
     - title: 'Contact'
