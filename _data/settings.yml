@@ -15,7 +15,7 @@ menu_settings:
     - title: 'Publications'
       url: '/publications/'
     - title: 'CV'
-      url: '_pages/cv.pdf'
+      url: 'https://richardsavery.com/cv.pdf'
     - title: 'Contact'
       url: '/contact'
 
