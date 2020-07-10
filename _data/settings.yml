@@ -15,7 +15,7 @@ menu_settings:
     - title: 'Publications'
       url: '/publications/'
     - title: 'CV'
-      url: '/cv.pdf'
+      url: '_pages/cv.pdf'
     - title: 'Contact'
       url: '/contact'
 
