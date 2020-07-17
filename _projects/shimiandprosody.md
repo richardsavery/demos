@@ -1,14 +1,14 @@
 ---
 title: 'Shimi and Prosody'
 subtitle: 'Using Musical Prosody for Robotic Interaction'
-date: 2020-01-30 00:00:00
+date: 2020-02-30 00:00:00
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/shimi.jpg'
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mDAmApNw5wo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ###### About:
-My work with Shimi started with the broad question of what voice a robot should use to communicate. I focused on generating a new non-speech voice, aiming to avoid uncanny valley, and allow a robot to talk like a robot. This was done using prosodic audio generated through deep learning on an embedded Nvidia Jetson TX2. After creating the voice we were able to show increased levels of trust in users when collaborating with Shimi. These metrics then led to the development of an expanded successful NSF grant, which commenced in November 2019.
+My work with Shimi started with the broad question of what voice a robot should use to communicate. I focused on generating a new non-speech voice, aiming to avoid uncanny valley, and allow a robot to talk like a robot. This was done using prosodic audio generated through deep learning on an embedded Nvidia Jetson TX2. After creating the voice I was able to show increased levels of trust in users when collaborating with Shimi. These metrics then led to the development of a successful NSF grant with my advisor Gil Weinberg, which commenced in November 2019.
 
 
 

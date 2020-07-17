@@ -14,6 +14,8 @@ In September 2019 Shimon performed a 60 mintute work composed by Signe Bisgaard 
 
 The concert was awarded the Jazz Denmark Prize (equivalent to the Grammy's in the US) for "the most innovative and creative concert experience of the year".
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rI_UsDrFWR0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 This performance had a huge amount of press, including TV, Radio and Newspaper Articles. Some highlights were:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5cw809eujuM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
