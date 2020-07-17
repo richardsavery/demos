@@ -13,8 +13,8 @@ My work with the arm focused on improving methods for Jason to interact and use 
 <div class="gallery" data-columns="4">
 	<img src="/images/drummingarm.png">
 	<img src="/images/jason.jpeg">
-  	<img src="/images/jason3.jpg">
- 	<img src="/images/jason4.jpg">
+  	<img src="/images/jason3.JPG">
+ 	<img src="/images/jason4.JPG">
 </div>
 
 ### Drumming Arm and Film
