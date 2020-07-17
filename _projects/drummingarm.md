@@ -10,7 +10,7 @@ The robotic drumming prosthesis was developed to allow [Jason Barnes](https://dr
 
 My work with the arm focused on improving methods for Jason to interact and use the arm. As well as supporting the arms use in many concerts I developed a new system for Jason to control the arm in performance.
 
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="4">
 	<img src="/images/drummingarm.png">
 	<img src="/images/jason.jpeg">
   <img src="/images/jason3.jpg">
