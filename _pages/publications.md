@@ -21,7 +21,7 @@ Artificial Intelligence & Creative Music Practice, Routledge, 2021
 
 ### Peer Reviewed Journals and Conferences
 
-[A  Survey  of  Robots  and  Emotion: Broad  Trends  and  Models  of  Emotional  Interaction](http://ro-man2020.unina.it/)
+[A  Survey  of  Robots  and  Emotion: Broad  Trends  and  Models  of  Emotional  Interaction](https://arxiv.org/pdf/2007.14838.pdf)
 
 Richard Savery, Gil Weinberg
 
@@ -40,7 +40,7 @@ Richard Savery, Lisa Zahray, Gil Weinberg
 
 International Conference on Computational Creativity, ICCC’20
 
-[Mechatronics-Driven Musical Expressivity for Robotic Percussionists](https://nime2020.bcu.ac.uk/)
+[Mechatronics-Driven Musical Expressivity for Robotic Percussionists](https://arxiv.org/pdf/2007.14850.pdf)
 
 Ning Yang, Richard Savery, Raghavasimhan Sankaranarayanan, Lisa Zahray, Gil Weinberg
 

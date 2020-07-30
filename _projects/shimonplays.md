@@ -33,7 +33,7 @@ In October 2017 Shimon recorded a live broadcast (with myself on Saxophone), in 
 
 
 ### Publications:
-Mechatronics-Driven Musical Expressivity for Robotic Percussionists
+[Mechatronics-Driven Musical Expressivity for Robotic Percussionists](https://arxiv.org/pdf/2007.14850.pdf)
 
 New Interfaces for Musical Expression 2020
 
