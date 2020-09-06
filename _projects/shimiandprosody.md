@@ -14,7 +14,7 @@ My work with Shimi started with the broad question of what voice a robot should 
 
 
 ### Grants
-###### National Science Foundation, National Robotics Initiative - $669,912.00
+###### National Science Foundation, National Robotics Initiative - $803,892.00
 In 2019 I was the primary author with my advisor Gil Weinberg for an NSF grant [Creating Trust Between Groups of Humans and Robots Using a Novel Music Driven Robotic Emotion Generator](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1925178&HistoricalAwards=false)
 
 ### Press:

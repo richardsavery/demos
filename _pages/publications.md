@@ -21,6 +21,19 @@ Artificial Intelligence & Creative Music Practice, Routledge, 2021
 
 ### Peer Reviewed Journals and Conferences
 
+##### Long-Term Interaction and Persistence of Engagement for Musical Interaction using a Genetic Algorithm
+
+Richard Savery, Gil Weinberg
+
+Proceedings of the 8th International Conference on Human-Agent Interaction (HAI ’20)
+
+
+##### Emotional  Musical  Prosody  for  the  Enhancement  of  Trust  in  Robotic Arm  Communication
+
+Richard Savery, Lisa Zahray, Gil Weinberg
+
+Trust, Acceptance and Social Cues in Human-Robot Interaction, Ro-MAN 2020
+
 [A  Survey  of  Robots  and  Emotion: Broad  Trends  and  Models  of  Emotional  Interaction](https://arxiv.org/pdf/2007.14838.pdf)
 
 Richard Savery, Gil Weinberg
