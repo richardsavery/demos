@@ -64,7 +64,7 @@ In 2012 and 2013 I was commissioned to write two new pieces for for the Kinetic 
 Composition for Violin, Viola, Bari Sax, Bass Clarinet, Trombone, Banjo and Melodica.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P9VhhsXbGig" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-More concert works are available on the [performance page.](/performance)
+More concert works are available on the [performance page.](/project/performance)
 
 <!-- Producer for ICTUS RECORDS -->
 
