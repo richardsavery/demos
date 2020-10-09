@@ -1,32 +1,15 @@
 ---
 title: 'Composition'
-subtitle: 'Film and Game Composition'
+subtitle: 'Music Composition'
 date: 2017-06-30 00:00:00
 description: Summary of Film and Game Composition
 featured_image: '/images/filmyangh.jpg'
 ---
 ###### About:
-I've worked on many projects as a composer, from classical string trios, to video game and film music. On this page are selected highlights focusing on my composition work. The full lists of film and game scores is available in my CV.
+ As a composer I have written video game music, film scores and concert works. On this page are selected compositional highlights.
 
-### Video Game Music
-##### Gunman Taco Truck
-I orchestrated and played saxophone on John Romero's Gunman Taco Truck. Best Indie Game Audio (Nominee), GANG Awards 2017
-<iframe width="560" height="315" src="https://www.youtube.com/embed/42suv8VoEjI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-##### Gathering Sky
-I orchestrated Gathering Sky. Best Indie Game Audio (Winner), GANG Awards 2015
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xhRb5MVL8_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-##### MOK
-I composed the music for the iOS and Android game Mok.
-<p align="center"><iframe style="border: 0; width: 400px; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=1755556024/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://richardsavery.bandcamp.com/album/mok-highlights">MOK Highlights by richardsavery</a></iframe></p>
-
-##### CS:GO Music Kit
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kSENMW9KHJ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Film Scores
-Following online and available to view..
-
 
 ##### Fast Four
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XVV_38b4ph4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -66,6 +49,24 @@ Composition for Violin, Viola, Bari Sax, Bass Clarinet, Trombone, Banjo and Melo
 
 More concert works are available on the [performance page.](/project/performance)
 
+
+
+### Video Game Music
+##### Gunman Taco Truck
+Orchestrator and saxophonist on John Romero's Gunman Taco Truck. Best Indie Game Audio (Nominee), GANG Awards 2017
+<iframe width="560" height="315" src="https://www.youtube.com/embed/42suv8VoEjI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### Gathering Sky
+Orchestrator for Gathering Sky. Best Indie Game Audio (Winner), GANG Awards 2015
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xhRb5MVL8_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### MOK
+I composed the music for the iOS and Android game Mok.
+<p align="center"><iframe style="border: 0; width: 400px; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=1755556024/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://richardsavery.bandcamp.com/album/mok-highlights">MOK Highlights by richardsavery</a></iframe></p>
+
+##### CS:GO Music Kit
+Orchestrator and saxophonist for Counter Strike:GO Music Kit.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kSENMW9KHJ0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <!-- Producer for ICTUS RECORDS -->
 
 
