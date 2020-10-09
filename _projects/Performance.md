@@ -6,9 +6,9 @@ description: Summary of Film and Game Composition
 featured_image: '/images/performance.png'
 ---
 ###### About:
-Music performance has been a significant part of my life, performing professionally over the last 15 years on saxophone, clarinet and flute.
+Music performance has been a significant part of my life, playing professionally over the last 15 years on saxophone, clarinet and flute.
 
-On this page are a collection of some highlights from these performances. For more composition work visit my [composition page.](/project/composition)
+On this page is a collection of some highlights from these performances. For more composition work visit my [composition page.](/project/composition)
 
 ### LIE: Flower and Convicts
 This album was recorded in 2013 with my seven-piece ensemble LIE.

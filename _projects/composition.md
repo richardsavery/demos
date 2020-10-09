@@ -6,7 +6,7 @@ description: Summary of Film and Game Composition
 featured_image: '/images/filmyangh.jpg'
 ---
 ###### About:
- As a composer I have written video game music, film scores and concert works. On this page are selected compositional highlights.
+ As a composer I have written video game music, film scores and concert works. This page contains selected compositional highlights.
 
 
 ### Film Scores
@@ -61,7 +61,7 @@ Orchestrator for Gathering Sky. Best Indie Game Audio (Winner), GANG Awards 2015
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xhRb5MVL8_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### MOK
-I composed the music for the iOS and Android game Mok.
+ Composer for the iOS and Android game Mok.
 <p align="center"><iframe style="border: 0; width: 400px; height: 406px;" src="https://bandcamp.com/EmbeddedPlayer/album=1755556024/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://richardsavery.bandcamp.com/album/mok-highlights">MOK Highlights by richardsavery</a></iframe></p>
 
 ##### CS:GO Music Kit
