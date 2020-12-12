@@ -1,6 +1,6 @@
 ---
 title: Publications
-description: Duet is a beautiful Jekyll portfolio theme.
+description: Collection of Richard Savery's publications.
 featured_image: /images/demo/demo-landscape.jpg
 ---
 <!-- ![](/images/promo.png) -->
@@ -21,14 +21,7 @@ Artificial Intelligence & Creative Music Practice, Routledge, 2021
 
 ### Peer Reviewed Journals and Conferences
 
-##### Long-Term Interaction and Persistence of Engagement for Musical Interaction using a Genetic Algorithm
-
-Richard Savery, Gil Weinberg
-
-Proceedings of the 8th International Conference on Human-Agent Interaction (HAI ’20)
-
-
-##### Emotional  Musical  Prosody  for  the  Enhancement  of  Trust  in  Robotic Arm  Communication
+[Emotional  Musical  Prosody  for  the  Enhancement  of  Trust  in  Robotic Arm  Communication](https://arxiv.org/pdf/2009.09048.pdf)
 
 Richard Savery, Lisa Zahray, Gil Weinberg
 
@@ -40,18 +33,26 @@ Richard Savery, Gil Weinberg
 
 29th IEEE International Conference on Robot & Human Interactive Communication
 
-[Robot  Gesture  Sonification  to  Enhance  Awareness  of  Robot  Status  and Enjoyment  of  Interaction](http://ro-man2020.unina.it/)
+[Robot  Gesture  Sonification  to  Enhance  Awareness  of  Robot  Status  and Enjoyment  of  Interaction](https://ieeexplore.ieee.org/document/9223452)
 
 Lisa Zahray, Richard Savery, Liana Syrkett, Gil Weinberg
 
 29th IEEE International Conference on Robot & Human Interactive Communication, 2020
 
 
-[Shimon the Rapper: A Real-Time System for Human-Robot Interactive Rap Battles](http://computationalcreativity.net/iccc20/)
+[Shimon the Rapper: A Real-Time System for Human-Robot Interactive Rap Battles](https://arxiv.org/pdf/2009.09234.pdf)
 
 Richard Savery, Lisa Zahray, Gil Weinberg
 
 International Conference on Computational Creativity, ICCC’20
+
+Awarded Best Student Paper
+
+[Emotional Musical Prosody: Validated Vocal Dataset for Human Robot Interaction](https://arxiv.org/pdf/2010.04839.pdf)
+
+Richard Savery, Lisa Zahray, Gil Weinberg
+
+2020 Joint Conference on AI Music Creativity
 
 [Mechatronics-Driven Musical Expressivity for Robotic Percussionists](https://arxiv.org/pdf/2007.14850.pdf)
 
@@ -59,6 +60,11 @@ Ning Yang, Richard Savery, Raghavasimhan Sankaranarayanan, Lisa Zahray, Gil Wein
 
 New Interfaces for Musical Expression, 2020
 
+[Long-Term Interaction and Persistence of Engagement for Musical Interaction using a Genetic Algorithm](https://dl.acm.org/doi/abs/10.1145/3406499.3418768)
+
+Richard Savery, Gil Weinberg
+
+Proceedings of the 8th International Conference on Human-Agent Interaction (HAI ’20)
 
 [Establishing Human-Robot Trust through Music-Driven Robotic Emotion Prosody and Gesture](https://arxiv.org/pdf/2001.05863.pdf)
 
@@ -113,6 +119,13 @@ Richard Savery
 
 
 ### Industry Events, Presentations and Articles
+
+##### Doctoral Consortiums
+
+International Conference on Computational Creativity, ICCC’20
+
+OzCHI 2020
+
 ##### Deep Learning Applications for Video Game Music
 
 Richard Savery

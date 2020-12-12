@@ -2,7 +2,7 @@
 title: 'Sonification'
 subtitle: 'EEG, Robotics and Soccer'
 date: 2017-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: Videos, papers and press about sonification .
 featured_image: '/images/eeg.png'
 ---
 Sonification is the process of turning data into sound. I've worked on multiple sonification projects, including robot gesture sonification, soccer sonification and EEG sonification.

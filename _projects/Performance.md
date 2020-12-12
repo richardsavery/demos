@@ -2,7 +2,7 @@
 title: 'Music Performance'
 subtitle: 'Saxophone, Clarinet and Flute'
 date: 2017-06-30 00:00:00
-description: Summary of Film and Game Composition
+description: Summary of performance
 featured_image: '/images/performance.png'
 ---
 ###### About:

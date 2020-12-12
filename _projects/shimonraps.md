@@ -16,24 +16,26 @@ Shimon raps emerged out of an interest in applying my automatic lyric creation s
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zPvVpG-aCNg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+[This Robot Can Rap—Really](https://www.scientificamerican.com/article/this-robot-can-rap-really/) Scientific American, December 4 2020
+
 [It’s Robot Versus Human as Shimon Performs Real-Time Rap Battles](https://spectrum.ieee.org/automaton/robotics/robotics-software/robot-versus-human-shimon-real-time-rap-battles) IEEE Spectrum, 23rd April 2020
 
 
 [Can a Robot Really Freestyle?](https://www.freethink.com/videos/robot-music) Freethink Media, 23rd April 2020
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cdbH0Wg1T2c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<!--
 
-SPOTIFY ShimonSings
-PADLET -->
+
 Rapping featured on the tracks, Biological inclusion, Children of Two and Do You Hear.
 <center>
 <iframe src="https://open.spotify.com/embed/album/49mqgxoLXFGP5NnBB5PQAU" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe></center>
 
 ### Publications
-Shimon the Rapper:A Real-Time System for Human-Robot Interactive Rap Battles
+[Shimon the Rapper: A Real-Time System for Human-Robot Interactive Rap Battles](https://arxiv.org/pdf/2009.09234.pdf)
 
-International Conference on Computational Creativity, ICCC’2020 (September)
+International Conference on Computational Creativity, ICCC’2020
+
+Awarded Best Student Paper
 
 Richard Savery, Lisa Zahray, Gil Weinberg
 

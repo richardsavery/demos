@@ -2,7 +2,7 @@
 title: 'Shimon Sings'
 subtitle: 'AI Lyric Generation'
 date: 2020-01-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: Videos, papers and press about a robot singer
 featured_image: '/images/ShimonSings.jpg'
 ---
 
