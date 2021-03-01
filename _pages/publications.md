@@ -15,7 +15,7 @@ Handbook of Artificial Intelligence and Music, Springer, 2020
 
 ##### A ConvNet for Ethical Robotic Musical Generation and Interaction
 
-Richard Savery, Lisa Zahray, Gil Weinberg
+Richard Savery, Gil Weinberg
 
 Artificial Intelligence & Creative Music Practice, Routledge, 2021
 

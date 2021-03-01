@@ -3,7 +3,7 @@ redirect_from: "/shimonraps"
 title: 'Shimon Raps'
 subtitle: 'Real-time Robotic Hip-hop'
 date: 2018-06-30 00:00:00
-<!-- description: This page is a demo that shows everything you can do inside portfolio and blog posts. -->
+<!-- description: Videos, papers and press about a robot rapper. -->
 featured_image: '/images/dashshimon.png'
 ---
 
