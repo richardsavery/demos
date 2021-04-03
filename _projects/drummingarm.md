@@ -2,7 +2,7 @@
 title: 'Cyborg Drumming Arm'
 subtitle: 'Interaction and Generation for Prosthetics'
 date: 2017-06-30 00:00:00
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+description: Videos, papers and press about a cyborg drumming arm.
 featured_image: '/images/drummingarm.png'
 ---
 ###### About:
