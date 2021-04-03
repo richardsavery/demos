@@ -1,27 +1,19 @@
 ---
-title: 'Robot Sonification'
-description: This page is a demo that shows everything you can do inside portfolio and blog posts.
+title: 'Prosody for Group Robotics'
+description: Stimuli for group prosody
 featured_image: '/images/demo/demo-square.jpg'
 ---
-Abstract: We present a divergent approach to robotic sonification with the goal of improving the quality and safety of human-robot interactions. Sonification (turning data into sound) has been underutilized in robotics, and has broad potential to convey robotic movement and intentions to users without requiring visual engagement.
-We design and evaluate six different sonifications of movements for a robot with four degrees of freedom. Our sonification techniques include a direct mapping from each degree of freedom to pitch and timbre changes, emotion-based sound mappings, and velocity-based mappings using different types of sounds such as motors and music. We evaluate these sonifications using metrics for ease of use, enjoyment/appeal, and conveyance of movement information. Based on our results, we make recommendations to inform decisions for future robot sonification design. We suggest that when using sonification to improve safety of human-robot collaboration, it is necessary not only to convey sufficient information about movements, but also to convey that information in a pleasing and even social way to to enhance the human-robot relationship.
+# Emotion Musical Prosody for Robotic Groups and Entitativity
 
-## Direct Pitch and Timbre
+Abstract: Research in human-robot interaction has focused on the relationship between a single robot and single human participant. Only limited research has addressed the contrasting dynamic when humans interact with a group of robots. This dynamic has many additional considerations, such as the level of entitativity, which is the identification of a group as a single entity as opposed to a collection of individuals. This paper proposes that emotional music prosody can play a key role in improving the interaction between humans and groups of robots and modifying the level of entitativity. Musical prosody refers to the use of pitch, rhythm and timbre features derived from language, but used without semantic meaning.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLHk87_ciIAPnlylM5C5MBxmh4zjf4pOmc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+We conducted a between group experiment, with stimuli featuring a group of industrial robotic arms either without sound, with the same emotional musical prosody voice or with contrasting voices. We were able to show with significant results that prosody improved likeability and trust over gestures for groups of robots. We also demonstrated that through subtle variations prosody is able to alter the level of entitativity perceived by external observers. Finally, our results indicated a complex relationship between entitativity and common HRI metrics with higher levels of entitativity leading to improved performance, contradicting past literature.
 
-## Auditory Emoticons
+## Gestures Alone
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xcB6kHOpMTI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OIjS7Z4s5V8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Single Voice
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NWZXgX3844Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Artificial Motor Sounds
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gF0pDWdm1NY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Percussion Sounds
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XW-lBnUIOnQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Music-Based Beats
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EJxa4uJO0p8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## Music-Based Jazz
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oF12DkA6Q6g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Multiple Voices
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gJpNIoKVbPo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
