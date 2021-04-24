@@ -131,7 +131,6 @@ Richard Savery
 
 2015, University of California, Irvine
 
-
 ### Industry Events, Presentations and Articles
 
 ##### Doctoral Consortiums
