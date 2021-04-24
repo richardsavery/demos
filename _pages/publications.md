@@ -10,7 +10,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 Richard Savery, Lisa Zahray, Gil Weinberg
 
-Handbook of Artificial Intelligence and Music, Springer, 2020
+Handbook of Artificial Intelligence and Music, Springer, 2021
 
 
 ##### A ConvNet for Ethical Robotic Musical Generation and Interaction
@@ -20,6 +20,20 @@ Richard Savery, Gil Weinberg
 Artificial Intelligence & Creative Music Practice, Routledge, 2021
 
 ### Peer Reviewed Journals and Conferences
+
+[Before, Between, and After: Enriching Robot Communication Surrounding Collaborative Creative Activities](https://www.frontiersin.org/articles/10.3389/frobt.2021.662355/abstract)
+
+Richard Savery, Lisa Zahray, Gil Weinberg
+
+Frontiers in Robotics and AI: Creativity and Robotics, 2021
+
+[Machine Learning Driven Musical Improvisation for Mechanomorphic Human-Robot Interaction](https://dl.acm.org/doi/10.1145/3434074.3446351)
+
+Richard Savery
+
+2021 ACM/IEEE International Conference on Human-Robot Interaction
+
+
 
 [Emotional  Musical  Prosody  for  the  Enhancement  of  Trust  in  Robotic Arm  Communication](https://arxiv.org/pdf/2009.09048.pdf)
 
@@ -121,6 +135,8 @@ Richard Savery
 ### Industry Events, Presentations and Articles
 
 ##### Doctoral Consortiums
+
+HRI Pioneers 2021
 
 International Conference on Computational Creativity, ICCC’20
 
