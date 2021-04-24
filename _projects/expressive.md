@@ -21,6 +21,7 @@ You can try out [EarSketch here](https://earsketch.gatech.edu/earsketch2/)
 ## Groove Machine
 Groove Machine is a responsive tabletop application with a tangible user interface designed for the museum space. The intention is to teach basic computer programming concepts to middle school and high school students (ages 9-16 years old) using physical blocks that work as snippets of code. TuneTable applies computational elements like functions, parameters, and nested loops. My work in Groove Machine involved developing prototype software for it's implementation and developing the music samples used. While I worked on the project it was presented for a week in the Museum of Science and Industry in Chicago.
 
-You can try an online version of [Groove Machine here](https://groovemachine.lmc.gatech.edu/codeframe) or see a video demo below. 
+You can try an online version of [Groove Machine here](https://groovemachine.lmc.gatech.edu/codeframe) or see a video demo below.
+
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/97LWQtWx9Oc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
