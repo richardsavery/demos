@@ -3,7 +3,7 @@ title: 'MQ Research Fellow'
 subtitle: 'Developing new robotic musicians'
 date: 2021-06-30 00:00:00
 description: MQRF developing new musicians 2022
-featured_image: '/images/MQRF.png'
+featured_image: '/images/mqrf.png'
 ---
 <!-- ###### About: -->
 In January 2022 I started as a [Macquarie University Research Fellow](https://www.mq.edu.au/research/research-funding-and-grant-opportunities/fellowship-and-grant-opportunities/internal_funding/mq-research-fellowships), with the goal of developing new robotic musicians, continuing my research exploring AI, creativity, music and robotics.
