@@ -2,9 +2,9 @@
 redirect_from: "/shimonraps"
 title: 'Shimon Raps'
 subtitle: 'Real-time Robotic Hip-hop'
-date: 2018-06-30 00:00:00
+date: 2020-06-30 00:00:00
 <!-- description: Videos, papers and press about a robot rapper. -->
-featured_image: '/images/dashshimon.png'
+featured_image: '/images/goldblum.gif'
 ---
 
 <!-- ![](/images/dashshimon.png) -->
