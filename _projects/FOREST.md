@@ -16,6 +16,6 @@ During my research in [Emotional Musical Prosody](https://richardsavery.com/proj
 
 ### Selected Press and Videos
 
-[Finding Their Groove](https://research.gatech.edu/finding-their-groove)
+[Finding Their Groove](https://research.gatech.edu/finding-their-groove), GA Tech Research, November 29 2021
 
 [Building Human-Robot Relationships Through Music and Dance: A performance called FOREST is exploring trust through creative collaboration](https://spectrum.ieee.org/robot-dance-music) IEEE Spectrum, 1st December 2021
