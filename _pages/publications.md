@@ -152,7 +152,6 @@ Richard Savery
 Dancecult: Journal of Electronic Dance Music Culture 10 (1), 2018
 
 
-
 ### Dissertations
 [Machine Learning Driven Emotional Musical Prosody for Human-Robot Interaction](https://smartech.gatech.edu/handle/1853/66096)
 
