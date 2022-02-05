@@ -21,6 +21,12 @@ Artificial Intelligence & Creative Music Practice, Routledge, 2021
 
 ### Peer Reviewed Journals and Conferences
 
+[Emotional musical prosody for the enhancement of trust: Audio design for robotic arm communication](https://www.degruyter.com/document/doi/10.1515/pjbr-2021-0033/html)
+
+Richard Savery, Lisa Zahray, Gil Weinberg
+
+Paladyn, Journal of Behavioral Robotics
+
 [Before, Between, and After: Enriching Robot Communication Surrounding Collaborative Creative Activities](https://www.frontiersin.org/articles/10.3389/frobt.2021.662355/abstract)
 
 Richard Savery, Lisa Zahray, Gil Weinberg
@@ -31,8 +37,31 @@ Frontiers in Robotics and AI: Creativity and Robotics, 2021
 
 Richard Savery
 
-2021 ACM/IEEE International Conference on Human-Robot Interaction
+ACM/IEEE International Conference on Human-Robot Interaction, 2021
 
+[Say What? Collaborative Pop Lyric Generation Using Multitask Transfer Learning](https://arxiv.org/pdf/2111.07592.pdf)
+
+Naveen Ram, Tanay Gummadi, Rahul Bhethanabotla, Richard J Savery, Gil Weinberg
+
+Proceedings of the 9th International Conference on Human-Agent Interaction, 2021
+
+[Robots and emotion: a survey of trends, classifications, and forms of interaction](https://www.tandfonline.com/doi/full/10.1080/01691864.2021.1957014)
+
+Richard Savery, Gil Weinberg,
+
+Advanced Robotics, Volume 35, 2021
+
+[Emotion Musical Prosody for Robotic Groups and Entitativity](https://ieeexplore.ieee.org/document/9515314)
+
+Richard Savery, Amit Rogel and Gil Weinberg,
+
+30th IEEE International Conference on Robot & Human Interactive Communication, 2021
+
+[Musical Prosody-Driven Emotion Classification: Interpreting Vocalists Portrayal of Emotions Through Machine Learning](https://arxiv.org/abs/2106.02556)
+
+Nic Farris, Brian Model, Richard Savery, Gil Weinberg,
+
+18th Sound and Music Computing Conference, 2021
 
 
 [Emotional  Musical  Prosody  for  the  Enhancement  of  Trust  in  Robotic Arm  Communication](https://arxiv.org/pdf/2009.09048.pdf)
@@ -45,7 +74,7 @@ Trust, Acceptance and Social Cues in Human-Robot Interaction, Ro-MAN 2020
 
 Richard Savery, Gil Weinberg
 
-29th IEEE International Conference on Robot & Human Interactive Communication
+29th IEEE International Conference on Robot & Human Interactive Communication, 2020
 
 [Robot  Gesture  Sonification  to  Enhance  Awareness  of  Robot  Status  and Enjoyment  of  Interaction](https://ieeexplore.ieee.org/document/9223452)
 
@@ -133,7 +162,7 @@ Dancecult: Journal of Electronic Dance Music Culture 10 (1), 2018
 
 Richard Savery
 
-2015, University of California, Irvine, Master's Thesis 
+2015, University of California, Irvine, Master's Thesis
 
 ### Industry Events, Presentations and Articles
 
