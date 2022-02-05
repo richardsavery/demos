@@ -3,7 +3,7 @@ title: 'Composition'
 subtitle: 'Music Composition'
 date: 2017-06-30 00:00:00
 description: Summary of Film and Game Composition
-featured_image: '/images/filmyangh.jpg'
+featured_image: '/images/belllabs.jpg'
 ---
 ###### About:
  As a composer I have written video game music, film scores and concert works. This page contains selected compositional highlights.

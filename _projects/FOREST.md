@@ -6,7 +6,7 @@ description: Musical Forest
 featured_image: '/images/forest.jpeg'
 ---
 ###### About:
-During my research in [Emotional Musical Prosody](https://richardsavery.com/project/shimiandprosody), we consistently found that embedding emotion-driven sounds and gestures in robotic arms help establish trust and likability between humans and their AI counterparts. To expand this work into public performance, I helped develop and program the interactive performance “FOREST", consisting of improvising robot musicians, and dancers who interact with human partners. Much of my research is present throughout the performance, including deep learning generated audio, all lyrics through deep learning, and other musical ideas.
+During my research in [Emotional Musical Prosody](https://richardsavery.com/project/shimiandprosody), we consistently found that embedding emotion-driven sounds and gestures in robotic arms helped improve trust and likability between humans and their AI counterparts. To expand this work into a public performance, I helped develop and program the interactive performance “FOREST", consisting of improvising robot musicians, and dancers who interact with human partners. Much of my research is present throughout the performance, including deep learning generated audio, lyrics through deep learning, and other musical ideas.
 
 ### Video
 

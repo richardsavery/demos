@@ -124,12 +124,16 @@ Dancecult: Journal of Electronic Dance Music Culture 10 (1), 2018
 
 
 
-### Master's Thesis
+### Dissertations
+[Machine Learning Driven Emotional Musical Prosody for Human-Robot Interaction](https://smartech.gatech.edu/handle/1853/66096)
+
+2021, Georgia Tech, PhD Dissertation
+
 [Algorithmic Improvisers](https://escholarship.org/content/qt0t55v839/qt0t55v839.pdf)
 
 Richard Savery
 
-2015, University of California, Irvine
+2015, University of California, Irvine, Master's Thesis 
 
 ### Industry Events, Presentations and Articles
 

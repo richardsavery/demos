@@ -7,12 +7,17 @@ date: 2020-06-30 00:00:00
 featured_image: '/images/goldblum.gif'
 ---
 
-<!-- ![](/images/dashshimon.png) -->
+![](/images/goldblum.gif)
+
 ###### About:
 Shimon raps emerged out of an interest in applying my automatic lyric creation system to a real-time model. This system aims to capture many of unique aspects of lingusitic characteristics of hip hop and lyrical flow through rhythm and phrasing. The final system is interactive, allowing a rapper to respond in dialogue with Shimon.  
 
+Shimon Raps was awarded a Guiness World Record for "First robot to participate in a rap battle" and was also featured in the World According to Jeff Goldblum S2 Episode 206.
+
 
 ### Selected Press and Videos
+
+['The World According to Jeff Goldblum' sneak peek: 'I don't rap'](https://news.yahoo.com/world-according-jeff-goldblum-sneak-185500702.html), Yahoo News!, January 18, 2022
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zPvVpG-aCNg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
