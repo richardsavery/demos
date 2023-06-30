@@ -69,7 +69,7 @@ Education Element:
 
 ## Example Sound and Robotics Projects by the Dev Team
 
-- [Keirzo](www.keirzo.com), a rapping, drumming robot
+- [Keirzo](https://www.keirzo.com), a rapping, drumming robot
 
 - [Emotional Musical Prosody](https://richardsavery.com/project/shimiandprosody) an approach to non-linguistic sound for robots
 
