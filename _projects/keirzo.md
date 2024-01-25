@@ -8,7 +8,7 @@ featured_image: 'images/drumbody.png'
 <!-- ###### About: -->
 In January 2022 I started as a [Macquarie University Research Fellow](https://www.mq.edu.au/research/research-funding-and-grant-opportunities/fellowship-and-grant-opportunities/internal_funding/mq-research-fellowships), with the goal of developing new robotic musicians, continuing my research exploring AI, creativity, music and robotics.
 
-My primary focus is the development of Keirzo, a new robot for rapping and drumming. You can see all the details on Keirzo at the robot's website [https//www.keirzo.com](https//www.keirzo.com) or check out some demos below. 
+My primary focus is the development of Keirzo, a new robot for rapping and drumming. You can see all the details on Keirzo at the robot's website [https://www.keirzo.com](https://www.keirzo.com) or check out some demos below. 
 
 
 ## Freestyle Rap Exchange
@@ -18,9 +18,8 @@ Keirzo is able to rap for any length of time with humans of any musical skill le
 <iframe src="https://www.youtube.com/embed/CjE99Ngu5y0" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 
-## 60 Second Composition
-One of Keirzo's current features is to generate a 1 minute composition - a bass line, chords, harmony lines and lyrics - and then play and rap the new composition. 
+## Jazz Performance
+Keirzo is able to drum along with a human ensemble, using an input from a microphone to accompany. The video below shows Keirzo performing at the Roundtable with the Hon. Anoulack Chanthivong in December 2023. Featuring [Mary Rapp](https://maryrapp.com.au/) on bass and [Richard Savery](www.richardsavery.com) on saxophone. 
 
-A human inputs three words, in the video below it was ‘music’, 'drums' and ‘future’. Audio files are then given to the musicians (or played back through speakers). 
 
-<iframe src="https://www.youtube.com/embed/tXL6M-deWRg" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qw0E28cozw8?si=IT5nxKbmFu1QuQHC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
