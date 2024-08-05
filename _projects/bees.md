@@ -3,7 +3,7 @@ title: 'Un[contained] Arts Festival 2024 - Bees'
 subtitle: '17 July 2024 till 11 July 2024'
 date: 2024-01-25 00:00:00
 description: Bees Performance
-featured_image: '/images/wodonga/3.jpg'
+featured_image: '/images/bee2.jpg'
 ---
 
 This interactive installation invites participants into a technology-driven beehive. Guests wielded sensor-equipped flowers to influence virtual bees, 16 small bees and a queen bee.
