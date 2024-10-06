@@ -3,7 +3,7 @@ title: 'Janet Biggs'
 subtitle: 'Video, Film and Performance'
 date: 2023-01-20 00:00:00
 description: video, film and performance
-featured_image: '/images/janetr.jpg'
+featured_image: '/images/janetr.JPG'
 ---
 Janet Biggs is a research based, interdisciplinary artist known for her immersive work in video, film and performance. Biggs’ work focuses on individuals in extreme landscapes or situations, navigating the territory between art, science and technology.  I have been fortunate to have worked with Janet Biggs on a range of film and performance projects since 2018, with roles ranging from AI developer to music composer and anywhere between. 
 
